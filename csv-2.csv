@@ -1,0 +1,4 @@
+id,source,before,after,diff,replacements,distance
+1,Checkout - Order completed,CHECKOUT - ordine completato,Check out - Ordine completato,CHECKOUT -> Check out	ordine -> Ordine,31.03448275862069
+2,Tap to use current position,Toccare per usare la posizione attuale,Tocca per usare la posizione attuale,Toccare -> Tocca,5.263157894736842
+3,The order {0} might have already been paid or the link is expired.{},L’ordine {0} potrebbe essere già stato pagato o il link è scaduto.{},L’ordine {0} potrebbe essere già stato pagato o il link è scaduto.{},,0.0
